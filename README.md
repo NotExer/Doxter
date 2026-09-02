@@ -1,4 +1,4 @@
-# Automatizador RUES
+# Doxter
 
 Herramienta web para la consulta masiva y automatizada de información empresarial en el **RUES (Registro Único Empresarial y Social)** de Colombia.
 
@@ -36,8 +36,8 @@ Herramienta web para la consulta masiva y automatizada de información empresari
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/notexer/automatizacion-rues.git
-cd automatizacion-rues
+git clone https://github.com/notexer/Doxter.git
+cd Doxter
 
 # Instalar dependencias
 npm install
