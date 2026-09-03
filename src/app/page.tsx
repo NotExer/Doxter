@@ -125,13 +125,13 @@ export default function Page() {
             </div>
           </div>
           <Image
-            src="/Ejemplo.png"
+            src="/Ejemplo-360.webp"
             alt="Ejemplo de archivo Excel con una columna de NITs"
             width={360}
-            height={220}
+            height={187}
             loading="lazy"
-            sizes="(max-width: 720px) calc(100vw - 34px), 360px"
-            quality={65}
+            sizes="360px"
+            unoptimized
           />
         </section>
         <footer id="ayuda">
