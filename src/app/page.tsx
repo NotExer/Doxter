@@ -129,7 +129,8 @@ export default function Page() {
             alt="Ejemplo de archivo Excel con una columna de NITs"
             width={360}
             height={187}
-            loading="lazy"
+            loading="eager"
+            fetchPriority="high"
             sizes="360px"
             unoptimized
           />

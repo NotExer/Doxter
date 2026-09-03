@@ -184,6 +184,7 @@ h1 span {
 }
 .workspace-placeholder {
   min-height: 235px;
+  contain: layout paint;
 }
 .placeholder-line {
   width: 28%;
