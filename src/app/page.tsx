@@ -499,6 +499,8 @@ export default function Page() {
             width={360}
             height={220}
             loading="lazy"
+            sizes="(max-width: 720px) calc(100vw - 34px), 360px"
+            quality={65}
           />
         </section>
         <footer id="ayuda">
