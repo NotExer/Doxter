@@ -1,5 +1,5 @@
 import Image from "next/image";
-import DoxterWorkspace from "./doxter-workspace";
+import WorkspaceLoader from "./workspace-loader";
 import {
   Activity,
   ArrowUpRight,
@@ -57,7 +57,7 @@ export default function Page() {
             </span>
           </div>
         </section>
-        <DoxterWorkspace />
+        <WorkspaceLoader />
         <section id="flujo" className="content-section">
           <div className="section-heading">
             <div>

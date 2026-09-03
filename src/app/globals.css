@@ -182,6 +182,22 @@ h1 span {
   padding: 30px;
   margin-bottom: 18px;
 }
+.workspace-placeholder {
+  min-height: 235px;
+}
+.placeholder-line {
+  width: 28%;
+  height: 12px;
+  border-radius: 99px;
+  background: #edf2ee;
+  margin-bottom: 22px;
+}
+.placeholder-box {
+  height: 118px;
+  border: 1.5px dashed #d6e0d9;
+  border-radius: 15px;
+  background: #fbfdfb;
+}
 .section-heading {
   display: flex;
   align-items: flex-start;
